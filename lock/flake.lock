@@ -2151,11 +2151,11 @@
     "org": {
       "flake": false,
       "locked": {
-        "lastModified": 1738308695,
-        "narHash": "sha256-FSqXEDjkiQ6lpvaUMWP0pRht0xPZywYD8FkbZ5pZgQg=",
+        "lastModified": 1739518685,
+        "narHash": "sha256-5h76v5DzO19DVOHskIkflBYxAUwJKuIeLNokyo/WNSo=",
         "owner": "elpa-mirrors",
         "repo": "org-mode",
-        "rev": "d1f528e830e32185a4b270100cf77961fe6025a2",
+        "rev": "2f5add467c0c20c9f2427cc77597c9aa1b742a75",
         "type": "github"
       },
       "original": {
