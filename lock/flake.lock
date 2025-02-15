@@ -1460,11 +1460,11 @@
     "indent-bars": {
       "flake": false,
       "locked": {
-        "lastModified": 1737664237,
-        "narHash": "sha256-7/N7aUX7UBt5V/3lppZJSJKv3nTjhnph2/+2VpGQ9G4=",
+        "lastModified": 1738429048,
+        "narHash": "sha256-Vqad6dkwhtatvTrgtZDewe51oHOowoR5ANI2HJwzXJg=",
         "owner": "jdtsmith",
         "repo": "indent-bars",
-        "rev": "ea4c055f8e0d2c536ebf63717366076820c59c5e",
+        "rev": "2722d503af53a38aba02b1ad00b244862a4f690f",
         "type": "github"
       },
       "original": {
