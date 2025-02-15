@@ -1797,11 +1797,11 @@
     "minuet": {
       "flake": false,
       "locked": {
-        "lastModified": 1738199208,
-        "narHash": "sha256-Qyz0ebT746ToBHDsASwnQ2vGlhCFr/dbYfCWBc5a45Q=",
+        "lastModified": 1739497370,
+        "narHash": "sha256-YZ122d5OAlY8xXXD5XRW6kZJGNw42Lw8kcGpLYWgWEw=",
         "owner": "milanglacier",
         "repo": "minuet-ai.el",
-        "rev": "bde3350eaef768aaf8546dcc7b186fd761d947d6",
+        "rev": "5253d754f0683aed3134f3a48853798714170763",
         "type": "github"
       },
       "original": {
