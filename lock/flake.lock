@@ -2350,11 +2350,11 @@
     "org-memento": {
       "flake": false,
       "locked": {
-        "lastModified": 1737630560,
-        "narHash": "sha256-vqHdcIf1eTcz97/OvS843IWGPO4lhRQqZH1OVzDe3jI=",
+        "lastModified": 1739473242,
+        "narHash": "sha256-3EfaIexW8BcU5yLJtbg2qZiYRKJQCJ+cIkjpkwYgcQ8=",
         "owner": "akirak",
         "repo": "org-memento",
-        "rev": "25fd20bfb206ecf2877a49023ca52ffee208798e",
+        "rev": "e1f767e046e53bedbf652642d6011ab0dda1fd79",
         "type": "github"
       },
       "original": {
