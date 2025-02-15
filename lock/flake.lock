@@ -3543,11 +3543,11 @@
     "treesit-fold": {
       "flake": false,
       "locked": {
-        "lastModified": 1737266769,
-        "narHash": "sha256-PZmHc/riC7OWtV0mSd7OnGJtUbqOqP17f3nVzZLa78A=",
+        "lastModified": 1739422032,
+        "narHash": "sha256-2TZ33AMZr+GAjKryuQMAi7PRDGWBANTsbKpeBENrNUs=",
         "owner": "emacs-tree-sitter",
         "repo": "treesit-fold",
-        "rev": "fe10708cf9bd7df36e017c1a3561ae371d6d5ea7",
+        "rev": "1b4b552867d8eaa03008b887ec0c9236c3c2b416",
         "type": "github"
       },
       "original": {
