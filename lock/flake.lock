@@ -2607,11 +2607,11 @@
     "package-lint": {
       "flake": false,
       "locked": {
-        "lastModified": 1736345253,
-        "narHash": "sha256-q0Y/l67+aU75MAIUpaBTRoDSjOvCNo9Rl9dMewS/yCE=",
+        "lastModified": 1739373309,
+        "narHash": "sha256-fcRfuTJrA7DtbsqneThiHYvVOT5SIYceXh1aVsG/OUE=",
         "owner": "purcell",
         "repo": "package-lint",
-        "rev": "6f05a369e0718e93c5dce0951cad5e6646296612",
+        "rev": "21edc6d0d0eadd2d0a537f422fb9b7b8a3ae6991",
         "type": "github"
       },
       "original": {
