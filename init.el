@@ -120,7 +120,7 @@
  )
 (put 'set-goal-column 'disabled nil)
 ;; ## added by OPAM user-setup for emacs / base ## 56ab50dc8996d2bb95e7856a6eddb17b ## you can edit, but keep this line
-(require 'opam-user-setup "~/.emacs.d/opam-user-setup.el")
+;; (require 'opam-user-setup "~/.emacs.d/opam-user-setup.el")
 ;; ## end of OPAM user-setup addition for emacs / base ## keep this line
 (straight-use-package 'fancy-compilation)
 (require 'ansi-color)
@@ -141,7 +141,8 @@
 (straight-use-package 'yaml-mode) 
 (straight-use-package 'smart-shift)
 (straight-use-package 'terraform-mode)
-(straight-use-package 'nix-mode) 
+(straight-use-package 'nix-mode)
+(straight-use-package 'docker) 
 
 (setq ring-bell-function 'ignore)
 
